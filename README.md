@@ -1,4 +1,4 @@
-## Try it
+## What is this?
 This is repository to be able to fetch custom fake api response from 
 https://my-json-server.typicode.com/typicode/demo
 
