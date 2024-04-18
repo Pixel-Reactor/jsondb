@@ -1,8 +1,8 @@
 {
-  "users": [
-    { "id": 1, "name": "Jhon","surname":"Wick","phone":6443049,"address":"Wick Lane 321","email": "Jhon Wick 431"},
-    { "id":2, "name": "Jhon","surname":"Wick","phone":6443049,"address":"Wick Lane 321","email": "Jhon Wick 431"},
-    { "id": 3, "name": "Jhon","surname":"Wick","phone":6443049,"address":"Wick Lane 321","email": "Jhon Wick 431"}
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
