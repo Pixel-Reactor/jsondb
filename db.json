@@ -1,8 +1,8 @@
 {
   "users": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "name": "Jhon","surname":"Wick","phone":75655432,"email":"jhonwick@gmail.com","address":"fake avenue 132" },
+    { "id": 2, "name": "Clark","surname":"Kent","phone":75623432,"email":"kentclark@gmail.com","address":"344 Clinton Street" },
+    { "id": 3, "name": "Peter","surname":"Parker","phone":73223432,"email":"peterparker@gmail.com","address":"20 Ingram Street" },
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
